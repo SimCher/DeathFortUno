@@ -1,0 +1,90 @@
+<result>
+    <header>
+        <text id="0">
+            <ru>Танец Костей</ru>
+            <en>The Dice Dance</en>
+        </text>
+        <text id="1">
+            <ru>Танец Костей</ru>
+            <en>The Dice Dance</en>
+        </text>
+        <text id="2">
+            <ru>Кости Правосудия</ru>
+            <en>The Dice of Judgement</en>
+        </text>
+        <text id="3">
+            <ru>Суд Случая</ru>
+            <en>The Court of Chance</en>
+        </text>
+        <text id="4">
+            <ru>Стол Приговора</ru>
+            <en>The Judgement Table</en>
+        </text>
+    </header>
+    <unlucky>
+        <text id="0">
+            <ru>Танец Костей вынес Приговор</ru>
+            <en>The Dice Dance delivered its Verdict</en>
+        </text>
+        <text id="1">
+            <ru>Танец Костей бросил жребий</ru>
+            <en>The Dice Dance cast the die</en>
+        </text>
+        <text id="2">
+            <ru>Кости Правосудия вынесли Вердикт</ru>
+            <en>The Dice of Judgement rendered their Verdict</en>
+        </text>
+        <text id="3">
+            <ru>Суд Случая призвал Возмездие</ru>
+            <en>The Court of Chance summoned Retribution</en>
+        </text>
+        <text id="4">
+            <ru>Стол Приговора выбрал Жертву</ru>
+            <en>The Judgement Table chose its Victim</en>
+        </text>
+    </unlucky>
+    <lucky>
+        <text id="0">
+            <ru>Танец Костей даровал Пощаду</ru>
+            <en>The Dice Dance granted Mercy</en>
+        </text>
+        <text id="1">
+            <ru>Жребий обошёл тебя стороной</ru>
+            <en>The Die passed you by</en>
+        </text>
+        <text id="2">
+            <ru>Кости отвергли Приговор</ru>
+            <en>The Dice rejected the Sentence</en>
+        </text>
+        <text id="3">
+            <ru>Суд Случая отклонил Иск</ru>
+            <en>The Court of Chance dismissed the Claim</en>
+        </text>
+        <text id="4">
+            <ru>Стол Приговора остался чист</ru>
+            <en>The Judgement Table remained clean</en>
+        </text>
+    </lucky>
+    <fail>
+        <text id="0">
+            <ru>Танец Костей оказался прощальным</ru>
+            <en>The Dice Dance marked your last rites</en>
+        </text>
+        <text id="1">
+            <ru>Жребий указал на Казнь</ru>
+            <en>The Die became your Sentence</en>
+        </text>
+        <text id="2">
+            <ru>Кости подписали Смертный Приговор</ru>
+            <en>The Dice signed your Death Sentence</en>
+        </text>
+        <text id="3">
+            <ru>Суд Случая вынес Смертный Приговор</ru>
+            <en>The Court of Chance delivered a Death Sentence</en>
+        </text>
+        <text id="4">
+            <ru>Стол Приговора жаждет Крови</ru>
+            <en>The Judgement Table thirsts for Blood</en>
+        </text>
+    </fail>
+</result>

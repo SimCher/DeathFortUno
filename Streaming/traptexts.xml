@@ -1,0 +1,33 @@
+<trap>
+    <text id="LuckyDigit">
+        <ru>ВЫБЕРИ ЧИСЛО УДАЧИ</ru>
+        <en>null</en>
+    </text>
+    <text id="UnluckyDigit">
+        <ru>ВЫБЕРИ ЧИСЛО СМЕРТИ</ru>
+        <en>null</en>
+    </text>
+	<text id="PlayDices">
+        <ru>ИГРАЕМ ЭТИМИ КОСТЯМИ</ru>
+        <en>null</en>
+    </text>
+    <text id="LuckyBastard">
+        <ru>ВЕЗУЧИЙ СУКИН СЫН</ru>
+        <en>null</en>
+    </text>
+	<text id="UnluckyBastard">
+        <ru>ТАК ПОЖЕЛАЛА СУДЬБА</ru>
+        <en>null</en>
+    </text>
+    <text id="SuicideZero">
+        <ru>СЕГОДНЯ ТЕБЕ ВЕЗЁТ</ru>
+    </text>
+    <text id="SuicideAny">
+        <ru>ТЫ ЗНАЕШЬ, ЧТО ДЕЛАТЬ</ru>
+        <en>YOU KNOW THE DRILL</en>
+    </text>
+    <text id="SuicideAll">
+        <ru>ПРОЩАЙТЕ</ru>
+        <en>null</en>
+    </text>
+</trap>
